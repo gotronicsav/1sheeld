@@ -1,3 +1,6 @@
+//@orga=GoTronic
+//@author=Sylvain G.
+
 #include <OneSheeld.h>
 #define CUSTOM_SETTINGS
 #define INCLUDE_GAMEPAD_SHIELD
